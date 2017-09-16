@@ -1,0 +1,45 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Giusti.FCamara.Model", "Giusti.FCamara.Model\Giusti.FCamara.Model.csproj", "{8ED6E86D-7238-4371-A097-85C83DFCB236}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Giusti.FCamara.Data", "Giusti.FCamara.Data\Giusti.FCamara.Data.csproj", "{E054C2F6-5588-4A2D-A183-F0B0E2191D4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Giusti.FCamara.Business", "Giusti.FCamara.Business\Giusti.FCamara.Business.csproj", "{37915D03-41C5-43CF-B47F-AF995EAA6177}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Giusti.FCamara.Web", "Giusti.FCamara.Web\Giusti.FCamara.Web.csproj", "{E82A4C93-6BAD-4C22-AD41-25789B7B0C72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Giusti.FCamara.Api", "Giusti.FCamara.Api\Giusti.FCamara.Api.csproj", "{B776CDBD-BAD7-4B8C-B814-56DF73FAABB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8ED6E86D-7238-4371-A097-85C83DFCB236}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ED6E86D-7238-4371-A097-85C83DFCB236}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ED6E86D-7238-4371-A097-85C83DFCB236}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ED6E86D-7238-4371-A097-85C83DFCB236}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E054C2F6-5588-4A2D-A183-F0B0E2191D4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E054C2F6-5588-4A2D-A183-F0B0E2191D4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E054C2F6-5588-4A2D-A183-F0B0E2191D4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E054C2F6-5588-4A2D-A183-F0B0E2191D4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37915D03-41C5-43CF-B47F-AF995EAA6177}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37915D03-41C5-43CF-B47F-AF995EAA6177}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37915D03-41C5-43CF-B47F-AF995EAA6177}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37915D03-41C5-43CF-B47F-AF995EAA6177}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E82A4C93-6BAD-4C22-AD41-25789B7B0C72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E82A4C93-6BAD-4C22-AD41-25789B7B0C72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E82A4C93-6BAD-4C22-AD41-25789B7B0C72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E82A4C93-6BAD-4C22-AD41-25789B7B0C72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B776CDBD-BAD7-4B8C-B814-56DF73FAABB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B776CDBD-BAD7-4B8C-B814-56DF73FAABB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B776CDBD-BAD7-4B8C-B814-56DF73FAABB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B776CDBD-BAD7-4B8C-B814-56DF73FAABB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
