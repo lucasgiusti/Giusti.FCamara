@@ -41,7 +41,10 @@ Executar os projetos e logar no sistema com
  - Login: giusti
  - Senha: giusti
  
- Obs.: Para sair do sistema, clicar no nome do usuário logado no canto superior direito da tela e depois clicar em Sair.
+ 
+ Obs.: 
+ - O primeiro Logon pode demorar um pouco pela compilação do primeiro acesso à aplicação;
+ - Para sair do sistema, clicar no nome do usuário logado no canto superior direito da tela e depois clicar em Sair.
  
  A lista de produtos é retornada pela API na uri abaixo
   - http://localhost:51493/api/livro
