@@ -13,9 +13,9 @@ Projetos
  - Giusti.FCamara.Api (Projeto Api)
  - Giusti.FCamara.Web (Projeto Web)
 
-Obs.: Os dois projetos Api e Web estão na mesma solution.
+Obs.: Os dois projetos, Api e Web estão na mesma solution.
 
-#CONFIGURAÇÃO
+# CONFIGURAÇÃO
 
 # Giusti.FCamara.Api
 
@@ -29,7 +29,7 @@ Geração da Base de Dados
 Caso seja alterada a url da API (publicado)
  - Abrir o arquivo \Giusti.FCamara.Web\app\app.js e alterar na primeira linha o valor da variável urlApi.
  
-#EXECUÇÃO
+# EXECUÇÃO
 
 Alterar a Solution para executar dois projetos
  - Clicar com o botão direito na solution e depois em Set StartUp Projects...;
